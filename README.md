@@ -8,9 +8,11 @@
 
 
 <!-- SVG Animated Header -->
+<!-- Animated Header -->
 <div align="center">
-  <img src="./header.svg" alt="animated header">
+  <img src="https://raw.githubusercontent.com/karthikarajagopal/karthikarajagopal/main/header.svg" alt="animated header">
 </div>
+
 
 Hi Geek!
 
