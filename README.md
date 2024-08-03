@@ -7,6 +7,11 @@
 </svg>
 
 
+<!-- SVG Animated Header -->
+<div align="center">
+  <img src="./header.svg" alt="animated header">
+</div>
+
 Hi Geek!
 
 - 👋 Hi, I’m Karthika Rajagopal, an exprienced python professional
