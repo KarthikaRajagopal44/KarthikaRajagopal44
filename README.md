@@ -1,3 +1,8 @@
+<!-- HTML for Animation -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/KarthikaRajagopal44/KarthikaRajagopal44/main/header.svg" alt="header">
+</div>
+
 Hi Geek!
 
 - 👋 Hi, I’m Karthika Rajagopal, an exprienced python professional
