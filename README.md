@@ -1,7 +1,11 @@
-<!-- HTML for Animation -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/KarthikaRajagopal44/KarthikaRajagopal44/main/header.svg" alt="header">
-</div>
+<svg width="100%" height="200" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="black"/>
+  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" font-size="24" fill="lime" font-family="Arial">
+    Welcome to Karthika Rajagopal's Profile
+  </text>
+  <animateTransform attributeName="transform" type="rotate" from="0 100 100" to="360 100 100" dur="10s" repeatCount="indefinite" />
+</svg>
+
 
 Hi Geek!
 
