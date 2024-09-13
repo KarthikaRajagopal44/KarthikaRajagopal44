@@ -45,9 +45,7 @@ Hi Geek!
 </div>
 
 <!-- Contribution Graph -->
-<div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=karthikarajagopal&theme=react-dark" alt="Karthika's GitHub Contribution Graph">
-</div>
+
 
 ## Skills
 <div align="center">
@@ -57,11 +55,6 @@ Hi Geek!
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
 </div>
 
-## Projects
-- [Project 1](https://github.com/karthikarajagopal/project1) - Description of project 1
-- [Project 2](https://github.com/karthikarajagopal/project2) - Description of project 2
 
-<div align="center">
-  <img src="https://img.shields.io/github/followers/karthikarajagopal?label=Followers&style=social" alt="GitHub Followers">
-  <img src="https://img.shields.io/github/stars/karthikarajagopal?label=Stars&style=social" alt="GitHub Stars">
-</div>
+
+
