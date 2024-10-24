@@ -9,7 +9,7 @@
 
 Hi Geek!
 
-- 👋 Hi, I’m Karthika Rajagopal, an exprienced python professional
+- 👋 Hi, I’m Karthika Rajagopal, an exprienced Machine Learning Engineer, python professional
 - 💻 I love doing competitive programming and learning new algorithms.
 - 🌱 I’m currently exploring diverse fields in software development and continually learning new skills.
 - ⚡ Hobby -  Amateur vocalist, Music, Movies, Anime.
