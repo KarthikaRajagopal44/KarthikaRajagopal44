@@ -10,6 +10,7 @@
 Hi Geek!
 
 - 👋 Hi, I’m Karthika Rajagopal, an exprienced(1.5y) NLP Engineer,Reinforcement Learning, Machine Learning, and python professional. Currently pursuing AI Research paper(DocQAgent- as part of the RegNLP workshop at COLING 2025) under the guidance of Dr Maneesh Singh.
+- I also post articles on my [Blog](https://medium.com/@karthii4)
 - 💻 I love doing competitive programming and learning new algorithms.
 - 🌱 I’m currently exploring diverse fields in software development and continually learning new skills.
 - ⚡ Hobby -  Amateur vocalist, Music, Movies, Anime.
