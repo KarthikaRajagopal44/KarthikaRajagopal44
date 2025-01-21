@@ -9,7 +9,7 @@
 
 Hi Geek!
 
-- 👋 Hi, I’m Karthika Rajagopal, an exprienced(1.5y) NLP Engineer,Reinforcement Learning, Machine Learning, and python professional. 
+- 👋 Hi, I’m Karthika Rajagopal, an exprienced NLP Engineer,Reinforcement Learning, Machine Learning, and python professional. 
 - I also post articles on my [Blog](https://medium.com/@karthii4)
 - 💻 I love doing competitive programming and learning new algorithms.
 - 🌱 I’m currently exploring diverse fields in software development and continually learning new skills.
