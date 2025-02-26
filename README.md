@@ -36,26 +36,6 @@ Hi Geek!
 
 
 
-# Hi there! 👋  
-I'm a developer passionate about AI, open-source, and web development.  
-
-## 📊 My GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KarthikaRajagopal44&show_icons=true&theme=radical)  
-
-## ⚡ GitHub Streak  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KarthikaRajagopal44&theme=radical)  
-
-## 🔥 GitHub Activity Graph  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KarthikaRajagopal44&theme=react)  
-
-## 🚀 Contributions Overview  
-- **🟩 Green Graph** → Shows active contributions over time  
-- **✅ 16 Commits** → Code updates pushed to repositories  
-- **🔀 22 Pull Requests** → Feature improvements & fixes submitted  
-- **🐛 5 Issues** → Reported and tracked bugs & feature requests  
-
-## 🏆 GitHub Achievements  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=KarthikaRajagopal44&theme=radical)  
 <!-- Contribution Graph -->
 
 
