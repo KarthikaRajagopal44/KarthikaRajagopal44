@@ -32,6 +32,16 @@ Hi Geek!
   </a>
 </div>
 
+# Hi there! 👋  
+I'm a developer passionate about AI, open-source, and web development.  
+
+## 📊 My GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KarthikaRajagopal44&show_icons=true&theme=radical)  
+
+## 🔥 GitHub Activity Graph  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KarthikaRajagopal44&theme=react)  
+
+
 
 
 <!-- Contribution Graph -->
