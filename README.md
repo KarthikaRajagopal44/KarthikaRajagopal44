@@ -7,6 +7,10 @@ Over the past couple of months, I’ve had the incredible opportunity to be part
 
 I am actively contributing to open-source projects focused on Machine Learning, continuously learning and collaborating with the community. My work spans areas such as model development, optimization, and deployment, with a strong emphasis on practical applications. I engage with repositories that advance state-of-the-art techniques, refining algorithms and improving scalability. Through these contributions, I aim to bridge research and real-world implementations, making ML tools more accessible. I am always open to collaboration and excited to work on innovative projects that push the boundaries of AI.
 
+![Profile Views](https://komarev.com/ghpvc/?username=KarthikaRajagopal44&color=blue)
+
+
+
 
 
 
