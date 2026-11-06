@@ -1,4 +1,4 @@
-Hi I'm Karthika! (This is my New Github Account)
+Hi I'm Karthika! 
 
 I'm fascinated by Abstract Neural Networks, Stochastic Learning Models, Knowledge graphs and Mathematical Equations, particularly in Functional Mapping. My research are centered around these domains.
 
